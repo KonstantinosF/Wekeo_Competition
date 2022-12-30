@@ -4,6 +4,7 @@ The Certificates of Participation:
 <p>
 [Konstantinos Fokeas.pdf](https://github.com/KonstantinosF/Wekeo_Competition/files/10325961/Konstantinos.Fokeas.pdf)
 </p>
+
 <p>
 [Ilias Machairas.pdf](https://github.com/KonstantinosF/Wekeo_Competition/files/10325963/Ilias.Machairas.pdf)
 </p>
