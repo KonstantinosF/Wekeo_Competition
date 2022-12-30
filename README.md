@@ -1,5 +1,5 @@
 # Wekeo_Competition
-This repository contains our submitted jupyter notebook for "Jupyter Notebook Competition 2022" by Wekeo
+This repository contains our submitted jupyter notebook for "Jupyter Notebook Competition 2022" by Wekeo.</br>
 The Certificates of Participation:
 <p>
 [Konstantinos Fokeas.pdf](https://github.com/KonstantinosF/Wekeo_Competition/files/10325961/Konstantinos.Fokeas.pdf)
